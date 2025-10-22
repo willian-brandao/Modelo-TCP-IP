@@ -35,3 +35,11 @@ Os protocolos da camada de aplicação são utilizados para troca de dados entre
   <tr>
   </tr>
 </table>
+
+A camada de aplicação do modelo TCP/IP trata de protocolos de alto nível, questões de representação, codificação e controle de diálogos, ou seja, o que as camadas 5, 6 e 7 do modelo OSI fazem separadamente a aplicação do TCP/IP trata como um pacote só, fazendo interface direta com a camada de transporte. 
+
+## Protocolos da camada da camada de aplicação:
+
+* DNS (Domain Name System - Sistema de nome de domínios) - O DNS é um sistema usado na internet para converter os nomes de domínios e seus respectivos nós de rede divulgados publicamente em endereços IP.
+* DHCP (Dinamic Host Configuration Protocol) - Utilizado para fornecer dados de configuração das interfaces dinamicamente aos computadores e demais endpoints da rede. Os dados fornecidos são no mínimo endereço IP, máscara de rede, endereço do roteador padrão e servidor DNS. Sem ele os administradores de rede teriam um imenso trabalho braçal.
+* 
