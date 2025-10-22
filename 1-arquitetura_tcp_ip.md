@@ -6,7 +6,7 @@ Já as camadas 3 e 4 do modelo OSI são similares às camadas 2 e 3 do TCP/IP, i
 
 Por fim, as camadas 1 e 2 do modelo OSI foram mescladas no TCP/IP para formar a camada de acesso aos meios ou acesso à rede. 
 
-
+<!---
 |TCP/IP                  | ISO/OSI             |
 |:-----------------------|--------------------:|
 |                        |     Aplicação       |
@@ -16,7 +16,7 @@ Por fim, as camadas 1 e 2 do modelo OSI foram mescladas no TCP/IP para formar a 
 |    Internet            |     Rede            |
 |    Acesso à Rede       |     Enlace          |
 |                        |     Física          |
-
+-->
 
 <table>
   <tr>
