@@ -7,31 +7,31 @@ Os protocolos da camada de aplicação são utilizados para troca de dados entre
 <table>
   <tr>
     <th>TCP/IP</th>
-    <th>ISO/OSI</th>
+    <th>Protocolos da Camada de Aplicação</th>
   </tr>
   <tr>
     <td rowspan="3">Aplicação</td>
-    <td>Transferência de Arquivo</td>
+    <td rowspan="7">Transferência de Arquivo: TFTP, FTP, NFS <br>
+                    Email: SMTP <br>
+                    Login Remoto: Telnet, rLogin <br>
+                    Gereciamento de Redes: SNMP  <br>
+                    Gerenciamento de nomes: DNS
   </tr>
   <tr>
-    <td>Apresentação</td>
+
   </tr>
   <tr>
-    <td>Sessão</td>
   </tr>
   <tr>
     <td>Transporte</td>
-    <td>Email</td>
   </tr>
   <tr>
     <td>Internet</td>
-    <td>Login Remoto</td>
+ 
   </tr>
   <tr>
     <td rowspan="2">Acesso à Rede</td>
-    <td>Gerenciamento de Redes</td>
   </tr>
   <tr>
-    <td>Gerenciamento de Nomes</td>
   </tr>
 </table>
