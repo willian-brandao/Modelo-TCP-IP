@@ -17,5 +17,39 @@ Por fim, as camadas 1 e 2 do modelo OSI foram mescladas no TCP/IP para formar a 
 |    Acesso à Rede       |     Enlace          |
 |                        |     Física          |
 
+
+<table>
+  <tr>
+    <th>TCP/IP</th>
+    <th>ISO/OSI</th>
+  </tr>
+  <tr>
+    <td rowspan="3">Aplicação</td>
+    <td>Aplicação</td>
+  </tr>
+  <tr>
+    <td>Apresentação</td>
+  </tr>
+  <tr>
+    <td>Sessão</td>
+  </tr>
+  <tr>
+    <td>Transporte</td>
+    <td>Transporte</td>
+  </tr>
+  <tr>
+    <td>Internet</td>
+    <td>Rede</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Acesso à Rede</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>Física</td>
+  </tr>
+</table>
+
+
 No TCP/IP não costumamos nos referir por camadas e sim pelos nomes delas, pois quando nos referimos pelo número da camada estamos falando de OSI. 
 
