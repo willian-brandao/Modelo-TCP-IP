@@ -12,4 +12,4 @@ Por fim, as camadas 1 e 2 do modelo OSI foram mescladas no TCP/IP para formar a 
 |                        |     Aplicação       |
 |    Aplicação           |     Apresentação    |
 |                        |     Sessão          |
-|:-----------------------|--------------------:|
+
